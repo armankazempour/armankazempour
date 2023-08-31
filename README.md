@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/7xjaio.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/7xjaio.gif"  />
 
 ###
 
@@ -63,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/armankazempour/armankazempour/output/snake.svg" alt="Snake animation" />
 
 ###
